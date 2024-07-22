@@ -1,8 +1,14 @@
 # Design-of-Model-Predictive-RBFN-Controller-for-non-linear-plants
+
+![Type](https://img.shields.io/badge/Type-Course_Project-yellow)
+![Concepts](https://img.shields.io/badge/Concepts-Industrial_Control,_Machine_Learning-blue)
+![Language](https://img.shields.io/badge/Language-MATLAB-red)
+![Libraries](https://img.shields.io/badge/Libraries-Simulink-green)
+
 This repository contains files related to designing of model predictive RBFN controller for non-linear plants modelled using U-model, using Simulink (MATLAB).
 The project aims to develop a model predictive RBFN controller for non-linear plant modelled using U-model.
 
-Elaborate details regarding the project can be found in the [Project Report](https://github.com/neelabhsinha/Design-of-Model-Predictive-RBFN-Controller-for-non-linear-plants/blob/master/Report%20-%20Model%20Predictive%20Controller%20using%20RBFNs.pdf)
+Elaborate details regarding the project can be found in the [Project Report](https://drive.google.com/file/d/1PXgjmmPS2wIvdBZJKlpJ_-K1X9XZsg-e/view?usp=share_link)
 
 ## Simulation Setup -
  The simulation setup of the entire project can be described as follows on a block level -
