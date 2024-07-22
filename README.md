@@ -10,6 +10,8 @@ The project aims to develop a model predictive RBFN controller for non-linear pl
 
 Elaborate details regarding the project can be found in the [Project Report](https://drive.google.com/file/d/1PXgjmmPS2wIvdBZJKlpJ_-K1X9XZsg-e/view?usp=share_link)
 
+Team Members - Parth Goyal, Utkarsh Kedia, Neelabh Sinha
+
 ## Simulation Setup -
  The simulation setup of the entire project can be described as follows on a block level -
  
